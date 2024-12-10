@@ -1,3 +1,6 @@
 [submodule "grpc-hello-server-maven"]
 	path = grpc-hello-server-maven
 	url = https://github.com/kinhhodev/grpc-hello-server-maven.git
+[submodule "grpc-hello-client-maven"]
+	path = grpc-hello-client-maven
+	url = https://github.com/kinhhodev/grpc-hello-client-maven.git
